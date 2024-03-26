@@ -1,0 +1,1 @@
+python evaluate.py -version 2 -resume checkpoint/MIMIC/model_best.pt -max_l 100 -beam_size 1

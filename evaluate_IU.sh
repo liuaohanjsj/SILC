@@ -1,0 +1,1 @@
+python evaluate.py -version 1 -resume checkpoint/IU/model_best.pt -max_l 60 -beam_size 1
