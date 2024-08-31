@@ -1,5 +1,6 @@
 # SILC
 This is the repository of our work "Multi-grained Radiology Report Generation with Sentence-level Image-language Contrastive Learning".
+Some files are unavailable on github due to file size restrictions. You can download our project (including model checkpoint) from https://drive.google.com/drive/folders/1Oax4RYRaZakV3CbAFVhHQbDqucFXTTFv?usp=sharing.
 ## Requirements
 
 - `torch==1.9.0`
